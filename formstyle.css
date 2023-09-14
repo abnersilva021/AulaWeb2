@@ -1,0 +1,16 @@
+.header{
+    background-color: blue;
+    padding: 15px;
+}
+.social{
+    
+    text-align:right ;
+}
+.rodape{
+    text-align: center;
+    background-color: gray;
+    width: 100%;
+    padding: 1%;
+    bottom: 0;
+    position: fixed;
+}
